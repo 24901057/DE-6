@@ -53,9 +53,9 @@ begin
 endmodule
 ```
 
- Developed by : REVATHI.S
+ Developed by : THEJASHREE S
  
- Register Number : 212224230228
+ Register Number : 212224240175
 
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
